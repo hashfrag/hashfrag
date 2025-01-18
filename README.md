@@ -1,6 +1,6 @@
 # Aspiring Data Analyst with a background in Graphic Design.
 #### Current Focus:
-- <strong>Python</strong> |  <em>Pandas, MatPlotLib</em> |
+- <strong>Python</strong> |  <em>Pandas, NumPy, MatPlotLib</em> |
 - <strong>Statistical Testing</strong> | <em>For more in-depth A/B testing</em> |
 #### Skills:
 - <strong>SQL</strong> |  <em>EDA, ETL, Data Wrangling, Data Cleaning, RFM, CLV, Funnels, Cohorts, Advanced SQL Techniques  </em> | BigQuery, PostgreSQL, MariaDB |
@@ -10,7 +10,7 @@
 - <strong></strong> | <em></em> |
 
 #### Hobbies
-- <strong>Tinkering with all sorts of technologies</strong> | <em>Databases, Home Servers, Networking, Home Automations </em>|
+- <strong>Tinkering with all sorts of technologies</strong> | <em>Databases, Home Servers, Networking, Automations </em>|
 - <strong>Music</strong> | <em>Experimental, Avant-garde, Metal </em>|
 - <strong>Board Games</strong> | 
 

@@ -11,7 +11,7 @@
 #### Hobbies
 - <strong>Tinkering with all sorts of technologies</strong> | <em>Databases, Home Servers, Networking, Automations </em>|
 - <strong>Music</strong> | <em>Experimental, Avant-garde, Metal </em>|
-- <strong>Board Games</strong> | <em>If it doesn't look like Monopoly, I'll play it </em>
+- <strong>Board Games</strong> | <em>If it doesn't look like Monopoly, I'll play it |</em>
 
 
 

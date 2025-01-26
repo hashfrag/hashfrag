@@ -5,14 +5,13 @@
 #### Skills:
 - <strong>SQL</strong> |  <em>EDA, ETL, Data Wrangling, Data Cleaning, RFM, CLV, Funnels, Cohorts, Advanced SQL Techniques  </em> | BigQuery, PostgreSQL, MariaDB |
 - <strong>Python</strong> |  <em>Basic Object Oriented Programming, Pandas, MatPlotLib  </em> | VSCode |
-- <strong>Tableau</strong> | <em></em> |
-- <strong>Excel/Sheets</strong> | <em></em> |
-- <strong></strong> | <em></em> |
+- <strong>Tableau</strong> | <em>Interactive Dashboards, Custom Graphs & Calculations, Live/Scheduled Updating </em> |
+- <strong>Excel/Sheets</strong> | <em>Pivot Tables, Advanced Functions</em> |
 
 #### Hobbies
 - <strong>Tinkering with all sorts of technologies</strong> | <em>Databases, Home Servers, Networking, Automations </em>|
 - <strong>Music</strong> | <em>Experimental, Avant-garde, Metal </em>|
-- <strong>Board Games</strong> | 
+- <strong>Board Games</strong> | <em>If it doesn't look like Monopoly, I'll play it </em>
 
 
 
